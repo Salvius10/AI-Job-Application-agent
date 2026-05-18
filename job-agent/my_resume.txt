@@ -1,0 +1,10 @@
+Name: John Doe
+Email: john@email.com
+
+Skills: Python, SQL, Data Analysis, Machine Learning, Docker, Git
+
+Experience:
+- Data Analyst at ABC Corp, 2 years
+- Junior Developer at XYZ Ltd, 1 year
+
+Education: B.Tech Computer Science, Anna University, 2021
